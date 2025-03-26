@@ -1,5 +1,5 @@
 # Student-Registration-System
- Backend Development Addon Course conducted by my college. This Student Registration System is a full-stack application with complete CRUD functionality, allowing users to:
+ This Student Registration System is a full-stack application with complete CRUD functionality, allowing users to:
 ✅ Add student information
  ✅ Update student details
  ✅ View student records
