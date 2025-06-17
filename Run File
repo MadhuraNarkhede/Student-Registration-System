@@ -1,0 +1,9 @@
+Make two termainal 
+
+Backend Terminal :-
+cd backend
+node server.js
+
+Frontend Terminal:-
+cd Frontend
+npm start
